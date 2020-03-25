@@ -1,0 +1,10 @@
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\bin\Debug\Project Demo.exe.config
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\bin\Debug\Project Demo.exe
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\bin\Debug\Project Demo.pdb
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project Demo.csprojAssemblyReference.cache
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project_Demo.Form1.resources
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project_Demo.Properties.Resources.resources
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project Demo.csproj.GenerateResource.cache
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project Demo.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project Demo.exe
+C:\Users\NGUYEN DUC MANH\Desktop\New folder (2)\Project-Demo-File\Project-Demo-File\Project Demo\obj\Debug\Project Demo.pdb
